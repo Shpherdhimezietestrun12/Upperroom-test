@@ -40,7 +40,7 @@ body {
 
 .test-one {
     /* For the header page to be recognized */
-    background: url("test_blast.gif") no-repeat center center;
+    background: url("./Pictures/test_blast.gif") no-repeat center center;
     background-size: cover;
     position: absolute;
     margin: 0;
