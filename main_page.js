@@ -23,10 +23,10 @@ if (isAndroid && width <= 768) {
 
 // this is for the first function that I called which is for the image changing...
 const images = [
-    "test_seven.webp", //  this is the default image 
-    "test_six.webp", // second image
-    "test_play.webp", // third image
-    "test_five.webp", // fourth image
+    "./Pictures/test_seven.webp", //  this is the default image 
+    "./Pictures/test_six.webp", // second image
+    "./Pictures/test_play.webp", // third image
+    "./Pictures/test_five.webp", // fourth image
 ];
 
 
