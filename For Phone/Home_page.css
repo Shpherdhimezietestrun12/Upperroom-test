@@ -1,5 +1,13 @@
 .header-two {
-    
+     /* For the header page to be recognized */
+    background: url("./Pictures/test_blast.gif") no-repeat center center;
+    background-size: cover;
+    position: absolute;
+    margin: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 950px;
 }
 
 .header-container {
