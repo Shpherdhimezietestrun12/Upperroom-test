@@ -1,13 +1,14 @@
+/* this is for the test header */
+
 .header-two {
-     /* For the header page to be recognized */
-    background: url("./Pictures/test_blast.gif") no-repeat center center;
+    background: url("./Pictures/sample_two.gif") no-repeat center center;
     background-size: cover;
     position: absolute;
     margin: 0;
     top: 0;
     left: 0;
     width: 100%;
-    height: 950px;
+    height: 550px;
 }
 
 .header-container {
@@ -28,7 +29,23 @@
     padding-bottom: 100000px;
     background-color: white;
     left: 0;
-    top: 0;
-    width: 80%;
+    top: 950px;
+    width: 100%;
     position: absolute;
+}
+
+.test-infix {
+    position: absolute;
+    right: 0;
+}
+
+.test-seven {
+    /* this is for the constant image */
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    zoom: 0.9;
+    margin-right: 40px;
+    margin-bottom: 20px;
+    /* Aligns to the bottom */
 }
