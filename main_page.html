@@ -5,6 +5,21 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="main_page.css">
     <title>Upper Room</title>
+    <script> 
+        const isAndroid = /Android/i.test(navigator.userAgent);
+        const isWindows = /Windows/i.test(navigator.userAgent);
+        const screenWidth = window.matchMedia("(max-width: 768)");
+
+        if (isAndroid) {
+            window.location.href = './For Phone/Home_page.html';
+        } else if (isWindows) {
+            window.location.href = '....';
+        } else if (screenWidth.matches) {
+            window.location.href = './For Phone/Home_page.html';
+        } else {
+            window.location.href = '......';
+        }
+    </script>
 </head>
 
 <body>
