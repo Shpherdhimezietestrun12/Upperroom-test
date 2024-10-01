@@ -70,14 +70,7 @@ body {
     margin-left: 270px;
 }
 
-.play-things {
-    background-color: #00000000;
-    width: 100%;
-    padding-bottom: 50px;
-    top: 0;
-    left: 0;
-    position: fixed;
-}
+
 
 .test-three {
     font-size: 35px;
