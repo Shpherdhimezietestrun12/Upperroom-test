@@ -11,6 +11,46 @@
     height: 850px;
 }
 
+.test-two {
+    /* this is for the main text */
+    font-size: 150px;
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 100px;
+    color: rgb(228, 213, 213);
+    margin-left: 270px;
+}
+
+.test-test {
+    /* the subtopic */
+    font-size: 150px;
+    font-style: italic;
+    font-weight: bold;
+    margin-top: -150px;
+    color: rgb(228, 213, 213);
+    margin-left: 270px;
+}
+
+.test-five {
+    /* this is for the test */
+    font-size: 25px;
+    font-family: Arial, sans-serif;
+    margin-top: -120px;
+    margin-left: 270px;
+    color: rgb(133, 132, 132);
+    font-weight: bold;
+}
+
+.test-five-test {
+    /* this is the second text */
+    font-size: 25px;
+    margin-left: 270px;
+    margin-top: -10px;
+    font-family: Arial, sans-serif;
+    color: rgb(133, 132, 132);
+    font-weight: bold;
+}
+
 .header-container {
     background-color: #00000000;
     width: 100%;
@@ -29,7 +69,7 @@
     padding-bottom: 100000px;
     background-color: white;
     left: 0;
-    top: 950px;
+    top: 850px;
     width: 100%;
     position: absolute;
 }
