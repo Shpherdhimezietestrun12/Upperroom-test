@@ -8,7 +8,7 @@
     top: 0;
     left: 0;
     width: 100%;
-    height: 850px;
+    height: 1000px;
 }
 
 .play-that {
@@ -21,9 +21,9 @@
     font-size: 120px;
     font-style: italic;
     font-weight: bold;
-    margin-top: 100px;
+    margin-top: 30px;
     color: rgb(228, 213, 213);
-    margin-left: 270px;
+    margin-left: 160px;
 }
 
 .test-test {
@@ -33,7 +33,7 @@
     font-weight: bold;
     margin-top: -150px;
     color: rgb(228, 213, 213);
-    margin-left: 270px;
+    margin-left: 160px;
 }
 
 .test-five {
@@ -41,7 +41,7 @@
     font-size: 23px;
     font-family: Arial, sans-serif;
     margin-top: -120px;
-    margin-left: 270px;
+    margin-left: 160px;
     color: rgb(133, 132, 132);
     font-weight: bold;
 }
@@ -49,7 +49,7 @@
 .test-five-test {
     /* this is the second text */
     font-size: 23px;
-    margin-left: 270px;
+    margin-left: 160px;
     margin-top: -10px;
     font-family: Arial, sans-serif;
     color: rgb(133, 132, 132);
@@ -74,7 +74,7 @@
     padding-bottom: 100000px;
     background-color: white;
     left: 0;
-    top: 850px;
+    top: 1000px;
     width: 100%;
     position: absolute;
 }
