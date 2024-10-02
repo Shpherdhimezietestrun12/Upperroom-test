@@ -148,6 +148,25 @@ body {
     position: absolute;
 }
 
+.place-one {
+    /* this is the first placement */
+    margin-top: 150px;
+    color: white;
+    font-weight: bolder;
+    font-size: 50px;
+    margin-left: 50px;
+}
+
+.place-two {
+    /* this is another test */
+    font-weight: bolder;
+    font-size: 30px;
+    color: white;
+    font-size: 50px;
+    margin-left: 50px;
+    margin-top: -50px;
+}
+
 .test-infix {
     /* this is for the constant image */
     position: fixed;
