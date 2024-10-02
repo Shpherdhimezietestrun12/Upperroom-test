@@ -1,5 +1,29 @@
 /* this is for the test header */
 
+@media (-webkit-browser) {
+    /* Chrome and Safari */
+     ::-webkit-addressbar {
+        background-color: #1f1702;
+        /* Red color */
+    }
+}
+
+@media (-moz-browser) {
+    /* Firefox */
+     ::-moz-addressbar {
+        background-color: #1f1702;
+        /* Red color */
+    }
+}
+
+@media (-webkit-browser) and (-webkit-version >=602) {
+    /* Safari 10+ */
+     ::-webkit-addressbar {
+        background-color: #1f1702;
+        /* Red color */
+    }
+}
+
 .header-two {
     background: url("./Pictures/sample_two.gif") no-repeat center center;
     background-size: cover;
