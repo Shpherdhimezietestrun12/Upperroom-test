@@ -13,7 +13,7 @@
 
 .test-two {
     /* this is for the main text */
-    font-size: 150px;
+    font-size: 120px;
     font-style: italic;
     font-weight: bold;
     margin-top: 100px;
@@ -23,7 +23,7 @@
 
 .test-test {
     /* the subtopic */
-    font-size: 150px;
+    font-size: 120px;
     font-style: italic;
     font-weight: bold;
     margin-top: -150px;
@@ -33,7 +33,7 @@
 
 .test-five {
     /* this is for the test */
-    font-size: 25px;
+    font-size: 23px;
     font-family: Arial, sans-serif;
     margin-top: -120px;
     margin-left: 270px;
@@ -43,7 +43,7 @@
 
 .test-five-test {
     /* this is the second text */
-    font-size: 25px;
+    font-size: 23px;
     margin-left: 270px;
     margin-top: -10px;
     font-family: Arial, sans-serif;
