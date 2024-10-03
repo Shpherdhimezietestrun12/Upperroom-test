@@ -208,6 +208,13 @@ body {
     /* Aligns to the bottom */
 }
 
+.type-one {
+    margin-left: 30px;
+    zoom: 1.5;
+    margin-top: 40px;
+    border-radius: 20px;
+}
+
 .test-seven {
     /* this is for the constant image */
     position: fixed;
