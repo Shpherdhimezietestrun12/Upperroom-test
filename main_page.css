@@ -6,13 +6,13 @@
     /* set scrollbar width */
     height: 12px;
     /* height of the scrollbar */
-    background-color: green;
+    background-color: purple;
     /* this is the bg of the scrollbar */
 }
 
 ::-webkit-scrollbar-thumb {
     /* the border raduis of the scrollbar */
-    background-color: green;
+    background-color: purple;
     /* the scrollbar thumb color */
     border-radius: 10px;
     /* this is the scrolbar border raduis */
@@ -24,12 +24,12 @@
 * {
     scrollbar-width: thin;
     /* set scrollbar width */
-    scrollbar-color: green black;
+    scrollbar-color: purple black;
     /* this is the bg of the scrollbar */
 }
 
 body {
-    scrollbar-color: green black;
+    scrollbar-color: purple black;
     /* this is for the scrollbar thumb color */
     scrollbar-width: thin;
     /* Scrollbar width */
@@ -70,8 +70,6 @@ body {
     margin-left: 270px;
 }
 
-
-
 .test-three {
     font-size: 35px;
     font-style: italic;
@@ -105,7 +103,6 @@ body {
     text-decoration: none;
     margin-top: -150px;
     overflow: hidden;
-    
 }
 
 .test-four nav ul {
@@ -113,7 +110,6 @@ body {
     list-style: none;
     padding: 0;
     margin: 0;
-    
     text-decoration: none;
     display: inline-block;
 }
