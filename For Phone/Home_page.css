@@ -216,6 +216,43 @@ body {
     border-radius: 20px;
 }
 
+.try-three {}
+
+.try-three nav {}
+
+.try-three li {
+    list-style: none;
+    display: inline-block
+}
+
+.try-two {
+    width: 200px;
+    height: 120px;
+    background-color: white;
+    font-size: 30px;
+    color: black;
+    border-radius: 20px;
+}
+
+.try-one {
+    width: 200px;
+    height: 120px;
+    font-size: 30px;
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+}
+
+.try-four {
+    zoom: 0.6;
+    margin-bottom: -35px;
+}
+
+.try-five {
+    zoom: 0.8;
+    margin-bottom: -25px;
+}
+
 .test-seven {
     /* this is for the constant image */
     position: fixed;
