@@ -124,6 +124,41 @@ body {
     font-weight: bold;
 }
 
+.line-one {
+    margin-top: 100px;
+    margin-left: 20px;
+    zoom: 1.2;
+}
+
+.line-one nav ul {}
+
+.line-one li {
+    display: inline;
+    list-style: none;
+}
+
+.signal-loc {
+    text-align: center;
+    margin-left: 500px;
+    margin-top: -120px;
+}
+
+.signal-loc a {
+    color: white;
+    font-size: 34px;
+    border-bottom: 2px solid white;
+    padding-bottom: 10px;
+    text-decoration: none;
+}
+
+.signal-loc a:hover {
+    color: #ad8311;
+    font-size: 38px;
+    border-bottom: 2px solid #ad8311;
+    padding-bottom: 10px;
+    text-decoration: none;
+}
+
 .header-container {
     background-color: #00000000;
     width: 100%;
@@ -187,7 +222,6 @@ body {
     /* this is for the botton adjustment of the code */
     width: 570px;
     height: 120px;
-    margin-left: 45px;
     margin-top: -20px;
     font-size: 35px;
     color: black;
@@ -205,6 +239,8 @@ body {
 .test-infix {
     /* this is for the constant image */
     position: fixed;
+    margin-top: 15px;
+    margin-right: 15px;
     right: 0;
     /* Aligns to the bottom */
 }
@@ -228,6 +264,7 @@ body {
 .try-two {
     width: 200px;
     height: 120px;
+    margin-left: -20px;
     background-color: white;
     font-size: 30px;
     color: black;
