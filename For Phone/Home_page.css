@@ -139,7 +139,7 @@ body {
 
 .signal-loc {
     text-align: center;
-    margin-left: 300px;
+    margin-left: 380px;
     margin-top: -120px;
 }
 
@@ -176,9 +176,9 @@ body {
 
 .num-four {
     color: #ad8311;
-    font-size: 22px;
+    font-size: 21px;
     margin-top: -70px;
-    margin-left: 90px;
+    margin-left: 75px;
 }
 
 .num-four nav ul {}
@@ -189,9 +189,9 @@ body {
 
 .num-five {
     color: #ad8311;
-    font-size: 22px;
-    margin-top: -100px;
-    margin-left: 235px;
+    font-size: 21px;
+    margin-top: -98px;
+    margin-left: 230px;
 }
 
 .num-five nav ul {}
@@ -202,9 +202,9 @@ body {
 
 .num-six {
     color: #ad8311;
-    font-size: 22px;
-    margin-top: -100px;
-    margin-left: 405px;
+    font-size: 21px;
+    margin-top: -98px;
+    margin-left: 400px;
 }
 
 .num-six nav ul {}
