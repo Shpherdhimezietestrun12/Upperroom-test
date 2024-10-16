@@ -309,24 +309,24 @@ body {
 
 .par-one {
     color: white;
+    text-align: center;
     font-size: 39px;
-    margin-left: 30px;
     margin-top: 100px;
     font-weight: bolder;
 }
 
 .par-two {
     color: white;
+    text-align: center;
     font-size: 39px;
-    margin-left: 170px;
     margin-top: -35px;
     font-weight: bolder;
 }
 
 .par-three {
     color: white;
+    text-align: center;
     font-size: 39px;
-    margin-left: 250px;
     margin-top: -40px;
     font-weight: bolder;
 }
@@ -347,6 +347,11 @@ body {
     border-radius: 20px;
     width: 250px;
     height: 80px;
+    font-size: 25px;
+    font-weight: bolder;
+    border-color: black;
+    border-width: 5px;
+    background-color: #836319;
 }
 
 .try-three {}
@@ -386,6 +391,17 @@ body {
 .try-five {
     zoom: 0.8;
     margin-bottom: -25px;
+}
+
+.div-one {
+    /* this is for the another frame */
+    position: absolute;
+    width: 100%;
+    right: 0;
+    left: 0;
+    background-color: #480412;
+    top: 1600px;
+    height: 800px;
 }
 
 .test-seven {
