@@ -139,12 +139,14 @@ body {
     /* this is for the test play */
     margin-left: 500px;
     text-align: center;
-    margin-top: 70px;
+    margin-top: -50px;
 }
 
 .play-test-sample a {
     /* this is the hover */
     text-decoration: none;
+    border-bottom: 2px solid white;
+    padding-bottom: 10px;
     color: rgb(228, 213, 213);
     font-size: 25px;
 }
@@ -153,17 +155,9 @@ body {
     /* this is for the hover */
     font-size: 34px;
     text-decoration: none;
-    color: rgb(228, 213, 213);
-}
-
-.tell-one {
-    /* this is for the tell sign */
-    color: rgb(228, 213, 213);
-    font-size: 40px;
-    margin-top: -40px;
-    margin-left: 500px;
-    text-align: center;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif;
+    border-bottom: 2px solid red;
+    padding-bottom: 10px;
+    color: red;
 }
 
 .play-that {
@@ -182,6 +176,18 @@ body {
     bottom: 0;
     margin-bottom: 10px;
     /* Aligns the image to the bottom */
+}
+
+.heat-one {
+    zoom: 1.2;
+    margin-left: 140px;
+}
+
+.heat-one nav ul {}
+
+.heat-one li {
+    list-style: none;
+    display: inline;
 }
 
 .test-seven {
@@ -425,8 +431,16 @@ body {
 }
 
 .main-container h3 {
-    margin-top: 250px;
-    font-size: 30px;
+    margin-top: 200px;
+    font-size: 35px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.head-second {
+    margin-top: -30px;
+    font-size: 35px;
+    font-weight: bolder;
     text-align: center;
 }
 
